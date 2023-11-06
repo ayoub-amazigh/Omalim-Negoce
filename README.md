@@ -1,14 +1,14 @@
-# First Year End of Study Project: Omalimnegoce SARL 1.0
+# First Year End of Study Project
 
 ![Omalimnegoce SARL 1.0](https://omalim.000webhostapp.com/assest/img/20210614_150512.png)
-
-## Overview
-
-Omalimnegoce SARL 1.0 is a fully responsive website built from scratch for Omalimnegoce SARL. It was created using native HTML5, CSS3, and PHP with MySQL as the SGBD (Systeme de Gestion de Base de Données). This website provides the company with an improved way to display its products, location, contact information, and more.
 
 ## About
 
 Omalimnegoce was one of my early projects, representing a milestone in my learning journey. It's a reflection of the progress I've made, and I hope you find it useful.
+
+## Overview
+
+Omalimnegoce SARL 1.0 is a fully responsive website built from scratch for Omalimnegoce SARL. It was created using native HTML5, CSS3, and PHP with MySQL as the SGBD (Systeme de Gestion de Base de Données). This website provides the company with an improved way to display its products, location, contact information, and more.
 
 ## Technologies Used
 
