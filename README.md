@@ -1,6 +1,7 @@
 # First Year End of Study Project
 
-![Omalimnegoce SARL 1.0](https://omalim.000webhostapp.com/assest/img/20210614_150512.png)
+<img src="https://omalim.000webhostapp.com/assest/img/20210614_150512.png" alt="Almotabari3 Website" height="200">
+
 
 ## About
 
