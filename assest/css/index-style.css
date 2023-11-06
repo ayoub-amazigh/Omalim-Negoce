@@ -1,0 +1,231 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    font-family: 'Tajawal', sans-serif;
+	font-family: 1.2rem;
+}
+
+body{
+    max-width: 2000px;
+    min-width: 500px;
+    background-color: beige;
+}
+
+iframe{
+   width: 99%;
+}
+
+.my-Brand{
+	margin: .5rem;
+    padding-left: 1rem;
+    font-size: 2rem;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: 600;
+}
+ 
+.my-btn-brahim{
+    margin-right: 1rem;
+    background-color: orange;
+    font-weight: 700;
+    width: 14rem;
+	font-size: 1.2rem;
+}
+
+.my-btn-brahim:hover{
+    background-color: lightgreen;
+    box-shadow: 1px 1px rgba(255,255,255,0.2);
+	transform: scale(1.04);
+	transition: .4s;
+}
+
+.bodyimage{
+    background-image: url(../img/main.jpg);
+    max-width:2000px;
+    min-width: 350px;
+    width: 100%;
+    height: 47rem;
+    background-size: cover;
+}
+
+.my-selector-holder{
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+
+.navbar-nav li a{
+	font-size: 1.4rem;
+	color: white;
+}
+
+.my-selector{
+	margin-top: 3rem;
+    margin-right: auto;
+    margin-left: auto;
+    height: 45rem;
+}
+
+.selector{
+    margin: 2rem auto 0rem auto;
+    height: 80%;
+    width: 90%;
+    border: 3px solid black;
+	border-radius: 5px;
+    box-shadow: 1px 1px 1px black;
+    background-color: white;;
+    border-radius: 5px;
+}
+
+.selector:hover{
+    box-shadow: 5px 6px 15px black;
+	transform: scale(1.03);
+	transition: .5s;
+}
+
+.my-insider-image{
+    margin: 1rem;
+    width: 95%;
+    height: 20rem;
+    border: 2px solid black;
+    box-shadow: 0px 1px 6px;
+    background-color: rgba(0,0,0,.3);
+}
+
+.my-title{
+    padding: 0rem;
+    margin-top: 0rem;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: black;
+}
+
+a{
+    text-decoration: none ;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+.my-desc{
+    margin-top: 1rem;
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.3rem;
+}
+
+.secondary-title{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.my-map{
+	width: 45%;
+    margin: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+    font-size: 2rem;
+    font-weight: 600;
+    border-radius: 4px;
+    box-shadow: 1px 5px 15px;
+}
+
+.my-definition{
+	width: 45%;
+    margin: 1rem;
+    border: 1px solid black;
+    background-color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 4px;
+    box-shadow: 1px 5px 15px;
+}
+
+.copyrightbanner{
+    padding: .1rem 0rem;
+    font-weight: 800;
+    background-color: orange;
+}
+
+.my-logo-image{
+    margin-top: 1rem;
+    align-items: center;
+    height: 7rem;   
+}
+
+.my-container-title{
+    font-size: 2.6rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.my-container-desc{
+    margin-top: 2rem;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    margin-left: auto;
+    width: 90%;
+    font-size: 1.4rem;
+    font-weight: 600;
+    
+}
+
+.my-fotter{
+    margin: 3rem 0rem 0rem 0rem;
+    width: 100%;
+    background-color: black;
+    height: 13rem;
+}
+
+.my-fotter-insider{
+    margin-top: 1rem;
+    height: 100%;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.my-sep1{
+    margin-left: 28%;
+    width: 14rem;
+    height: .2rem;
+    background-color: aqua;
+}
+
+.my-sep2{
+    margin-left: 28%;
+    width: 12.5rem;
+    height: .2rem;
+    background-color: aqua;
+}
+
+.my-sep3{
+    margin-left: 28%;
+    width: 12rem;
+    height: .2rem;
+    background-color: aqua;
+}
+
+.my-footer-description{
+    margin-top: 1rem;
+    margin-left: 10%;
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+.my-footer-description2{
+    margin-top: 1rem;
+    margin-left: 10%;
+    text-align: left;
+    font-size: 1.1rem;
+}
+
+.my-footer-icons{
+    margin-left: 10%;
+}
