@@ -1,6 +1,6 @@
 # First Year End of Study Project: Omalimnegoce SARL 1.0
 
-![Omalimnegoce SARL 1.0](insert-image-url-here)
+![Omalimnegoce SARL 1.0](https://omalim.000webhostapp.com/assest/img/20210614_150512.png)
 
 ## Overview
 
